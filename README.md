@@ -126,3 +126,11 @@ Contributions are welcome! Submit issues or pull requests on the GitHub reposito
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## ☕ Destek Olun / Support
+
+Projemi beğendiyseniz, bana bir kahve ısmarlayarak destek olabilirsiniz!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/metatronslove)
+
+Teşekkürler! 🙏
